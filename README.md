@@ -5,7 +5,7 @@ Questo progetto implementa un sistema basato su Reti Neurali Convoluzionali (CNN
 L'applicativo software in ambiente di produzione è sviluppato interamente in **C++**, avvalendosi di OpenCV per la computer vision e TensorFlow Lite C++ API per l'inferenza.
 
 ## 📊 Dataset e Data Augmentation
-Il progetto sfrutta il *Vegetable Classification Dataset* reperibile su Mendeley Data. 
+Il progetto sfrutta il *Vegetable Classification Dataset* reperibile su Mendeley Data ([Link al dataset]([https://data.mendeley.com/datasets/6nxnjbn9w6/1](https://data.mendeley.com/datasets/6nxnjbn9w6/1))).
 * **Classi principali (Tipi di Ortaggi)**: Bell Pepper, Chile Pepper, New Mexico Green Chile, Tomato.
 * **Sottoclassi (Stati di Maturazione)**: Damaged, Dried, Old, Ripe, Unripe.
 
